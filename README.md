@@ -5,3 +5,11 @@
 * `git`
 
 ## Procedure:
+* Clone this Project:
+    ```sh
+    git clone 
+    ```
+* In Terminal
+    ```sh
+    python3 main.py
+    ```
