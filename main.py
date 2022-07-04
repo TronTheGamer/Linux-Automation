@@ -1,5 +1,5 @@
 import os
-import sys
+import utils.arch.pacman as pacman
 
 
 if __name__ == "__main__":
@@ -7,4 +7,3 @@ if __name__ == "__main__":
         os.system(""""echo "Creating TEMP directory: " """)
         os.mkdir("TEMP")
 
-    
