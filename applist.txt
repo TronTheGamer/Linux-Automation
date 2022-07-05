@@ -1,0 +1,17 @@
+bat
+brave-bin
+alacritty
+oh-my-posh-git
+fish
+vim
+mailspring
+google-chrome-beta
+discord
+asusctl
+supergfxctl
+tldr
+sublime-text
+gnome-font-viewer
+chrome-gnome-shell
+visual-studio-code-insiders-bin
+nerd-fonts-jetbrains-mono
