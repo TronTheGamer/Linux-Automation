@@ -17,3 +17,6 @@ visual-studio-code-insiders-bin
 nerd-fonts-jetbrains-mono
 uwufetch
 neofetch
+rofi
+dconf-editor
+
